@@ -2,6 +2,7 @@
 * Created by taylor on 7/8/2015.
 */
 
+
 public class SocialAdapter implements SocialMediaEntry {
 
     YouTubeVideo video;
